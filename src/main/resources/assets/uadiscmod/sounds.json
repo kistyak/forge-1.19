@@ -1,0 +1,10 @@
+{
+  "ua_disc": {
+    "sounds": [
+      {
+        "name": "uadiscmod:ua_disc",
+        "stream": true
+      }
+    ]
+  }
+}
